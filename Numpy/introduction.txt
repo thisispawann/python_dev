@@ -1,0 +1,9 @@
+What is NumPy? [Numerical Python]
+- python library for creating
+- N-dimensional arrays
+- ability to quickly broadcast functions
+- built-in linear algenra, statistical distributions, trigonometric, and random number capabilities
+
+Why use NumPy?
+- while NumPy structutes look similar to standard python lists, they are much more efficient
+- the broadcasting capabilities are also extremely useful for quickly applying functions to our data sets.
